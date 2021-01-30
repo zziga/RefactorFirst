@@ -75,3 +75,5 @@ If you find this plugin useful, please star this repository and share with your 
 
 
 # Thank You!  Enjoy!
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=jimbethancourt_RefactorFirst)
